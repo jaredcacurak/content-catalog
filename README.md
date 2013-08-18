@@ -1,3 +1,7 @@
+* [Books](#books)
+* [Courses](#courses)
+* [Videos](#videos)
+
 # Books
 
 Banzi, Massimo. [Getting Started with Arduino](http://shop.oreilly.com/product/0636920021414.do). 2nd. Maker Media, 2011. eBook.
@@ -69,3 +73,7 @@ Wampler, Dean. [Functional Programming for Java Developers: Tools for Better Con
 Zakas, Nicholas. [Maintainable JavaScript](http://www.amazon.com/gp/product/B0082CXEB0). 1st. O'Reilly Media, 2012. eBook.
 
 Zakas, Nicholas. [Principles of Object-Oriented Programming in JavaScript](https://leanpub.com/oopinjavascript). Leanpub, 2013. eBook.
+
+# Courses
+
+# Videos
