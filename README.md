@@ -6,6 +6,8 @@ Burnham, Trevor. [Async JavaScript, Build More Responsive Apps with Less Code](h
 
 Crockford, Douglas. [JavaScript: The Good Parts](http://www.amazon.com/gp/product/B0026OR2ZY). 2nd. O'Reilly Media, 2008. eBook.
 
+Ford, Neal. [The Productive Programmer](http://shop.oreilly.com/product/9780596519544.do) 1st. O'Reilly Media, 2008. eBook.
+
 Fowler, Chad. [The Passionate Programmer, Creating a remarkable career in software development](http://pragprog.com/book/cfcar2/the-passionate-programmer). 2nd. Pragmatic Bookshelf, 2009. eBook.
 
 Heineman, George T., Gary Pollice, Stanley Selkow. [Algorithms in a Nutshell, A Desktop Quick Reference](http://shop.oreilly.com/product/9780596516246.do). 1st. O'Reilly Media, 2009. eBook.
