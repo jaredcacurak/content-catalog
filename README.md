@@ -2,6 +2,8 @@
 
 Braithwaite, Reginald. [JavaScript Allongé, A strong cup of functions, objects, combinators, and decorators](https://leanpub.com/javascript-allonge). Vancouver: Leanpub, 2013. eBook.
 
+Burnham, Trevor. [Async JavaScript, Build More Responsive Apps with Less Code](http://pragprog.com/book/tbajs/async-javascript). 1st. Raleigh: Pragmatic Bookshelf, 2012. eBook.
+
 Crockford, Douglas. [JavaScript: The Good Parts](http://www.amazon.com/gp/product/B0026OR2ZY). 2nd. Sebastopol: O'Reilly Media, 2008. eBook.
 
 Fowler, Chad. [The Passionate Programmer, Creating a remarkable career in software development](http://pragprog.com/book/cfcar2/the-passionate-programmer). 2nd. Raleigh: Pragmatic Bookshelf, 2009. eBook.
