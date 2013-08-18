@@ -16,6 +16,8 @@ Heineman, George T., Gary Pollice, Stanley Selkow. [Algorithms in a Nutshell, A 
 
 Herman, David. [Effective JavaScript, 68 Specific Ways to Harness the Power of JavaScript](http://www.amazon.com/gp/product/B00AC1RP14). 1st. Addison-Wesley Professional, 2012. eBook.
 
+Holdener, Anthony. [HTML5 Geolocation, Bringing Location to Web Applications](http://shop.oreilly.com/product/0636920020004.do). 1st. O'Reilly Media, 2010. eBook.
+
 Hoover, D., Adewale Oshineye. [Apprenticeship Patterns, Guidance for the Aspiring Software Craftsman](http://www.amazon.com/gp/product/B002RMSZ7E). 1st. O'Reilly Media, 2009. eBook.
 
 Hunt, Andrew, David Thomas. [The Pragmatic Programmer, From Journeyman to Master](http://www.amazon.com/gp/product/B000SEGEKI). 1st. Addison-Wesley Professional, 1999. eBook.
