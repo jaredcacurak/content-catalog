@@ -1,5 +1,7 @@
 # Books
 
+Banzi, Massimo. [Getting Started with Arduino](http://shop.oreilly.com/product/0636920021414.do). 2nd. Maker Media, 2011. eBook.
+
 Braithwaite, Reginald. [JavaScript Allongé, A strong cup of functions, objects, combinators, and decorators](https://leanpub.com/javascript-allonge). 1st. Leanpub, 2013. eBook.
 
 Burnham, Trevor. [Async JavaScript, Build More Responsive Apps with Less Code](http://pragprog.com/book/tbajs/async-javascript). 1st. Pragmatic Bookshelf, 2012. eBook.
