@@ -10,7 +10,7 @@ Crockford, Douglas. [JavaScript: The Good Parts](http://www.amazon.com/gp/produc
 
 Date, C.J. [SQL and Relational Theory, How to Write Accurate SQL Code](http://shop.oreilly.com/product/0636920022879.do). 2nd. O'Reilly Media, 2011. eBook.
 
-Downey, Allen B. [Thinking Stats](http://shop.oreilly.com/product/0636920020745.do). 1st. O'Reilly Media, 2011. eBook.
+Downey, Allen B. [Thinking Stats, Probability and Statistics for Programmers](http://shop.oreilly.com/product/0636920020745.do). 1st. O'Reilly Media, 2011. eBook.
 
 Elliott, Eric. [Programming JavaScript Applications, Robust Web Architecture With Node, HTML5, and Modern JS Libraries](http://shop.oreilly.com/product/0636920024231.do). 1st. O'Reilly Media, 2013. eBook.
 
@@ -18,7 +18,7 @@ Faludi, Robert. [Building Wireless Sensor Networks with ZigBee, XBee, Arduino, a
 
 Fogus, Michael. [Functional JavaScript, Introducing Functional Programming with Underscore.js](http://shop.oreilly.com/product/0636920028857.do). 1st.  O'Reilly Media, 2013. eBook.
 
-Ford, Neal. [The Productive Programmer](http://shop.oreilly.com/product/9780596519544.do) 1st. O'Reilly Media, 2008. eBook.
+Ford, Neal. [The Productive Programmer](http://shop.oreilly.com/product/9780596519544.do). 1st. O'Reilly Media, 2008. eBook.
 
 Fowler, Chad. [The Passionate Programmer, Creating a remarkable career in software development](http://pragprog.com/book/cfcar2/the-passionate-programmer). 2nd. Pragmatic Bookshelf, 2009. eBook.
 
@@ -38,19 +38,19 @@ Klemens, Ben. [21st Centry C, C tips from the New School](http://shop.oreilly.co
 
 Lindley, Cody. [JavaScript Enlightenment, From Library User to JavaScript Developer](http://shop.oreilly.com/product/0636920027713.do). 1st. O'Reilly Media, 2012. eBook.
 
-MacCaw, Alex. [The Little Book on CoffeeScript](http://shop.oreilly.com/product/0636920024309.do). 1st. O'Reilly Media, 2012. eBook.
+MacCaw, Alex. [The Little Book on CoffeeScript, The JavaScript Developer's Guide to Building Better Web Apps](http://shop.oreilly.com/product/0636920024309.do). 1st. O'Reilly Media, 2012. eBook.
 
-MacCaw, Alex. [JavaScript Web Applications](http://shop.oreilly.com/product/0636920018421.do). 1st. O'Reilly Media, 2011. eBook.
+MacCaw, Alex. [JavaScript Web Applications, jQuery Developers' Guide to Moving State to the Client](http://shop.oreilly.com/product/0636920018421.do). 1st. O'Reilly Media, 2011. eBook.
 
-Mednieks, Zigurd, Dornin, Laird G., Meike, Blake, Nakamura, Masumi. [Programming Android](http://shop.oreilly.com/product/0636920010364.do). 1st. O'Reilly Media, 2011. eBook.
+Mednieks, Zigurd, Dornin, Laird G., Meike, Blake, Nakamura, Masumi. [Programming Android, Java Programming for the New Generation of Mobile Devices](http://shop.oreilly.com/product/0636920010364.do). 1st. O'Reilly Media, 2011. eBook.
 
-Noble, Joshua. [Programming Interactivity](http://shop.oreilly.com/product/0636920021735.do). 2nd. O'Reilly Media, 2012. eBook.
+Noble, Joshua. [Programming Interactivity, A Designer's Guide to Processing, Arduino, and openFrameworks](http://shop.oreilly.com/product/0636920021735.do). 2nd. O'Reilly Media, 2012. eBook.
 
 Osmani, Addy. [Learning JavaScript Design Patterns, A JavaScript and jQuery Developer's Guide](http://shop.oreilly.com/product/0636920025832.do). 1st. O'Reilly Media, 2012. eBook.
 
 Pausch Randy, Zaslow Jeffrey. [The Last Lecture](http://www.amazon.com/gp/product/B00139VU7E). 1st. Hyperion, 2008. eBook.
 
-Pfister, Cuno. [Getting Started with the Internet of Things](http://shop.oreilly.com/product/0636920013037.do). 1st.  Maker Media, 2011. eBook.
+Pfister, Cuno. [Getting Started with the Internet of Things, Connecting Sensors and Microcontrollers to the Cloud](http://shop.oreilly.com/product/0636920013037.do). 1st.  Maker Media, 2011. eBook.
 
 Reas, C., Ben Fry. [Getting Started with Processing](http://www.amazon.com/gp/product/B003VTZXD6). 1st. Maker Media, 2010. eBook.
 
@@ -60,11 +60,11 @@ Seibel, Peter. [Coders at Work, Reflections on the Craft of Programming](http://
 
 Shaw, Zed. [Learn Python The Hard Way](http://learnpythonthehardway.org/). 2nd. Self Published, 2010. eBook.
 
-Souders, Steve. [High Performance Web Sites](http://shop.oreilly.com/product/9780596529307.do). 1st. O'Reilly Media, 2008. eBook.
+Souders, Steve. [High Performance Web Sites, Essential Knowledge for Front-End Engineers](http://shop.oreilly.com/product/9780596529307.do). 1st. O'Reilly Media, 2008. eBook.
 
-Stefanov, Stoyan. [JavaScript Patterns](http://shop.oreilly.com/product/9780596806767.do). 1st. O'Reilly Media, 2010. eBook.
+Stefanov, Stoyan. [JavaScript Patterns, Build Better Applications with Coding and Design Patterns](http://shop.oreilly.com/product/9780596806767.do). 1st. O'Reilly Media, 2010. eBook.
 
-Wampler, Dean. [Functional Programming for Java Developers](http://shop.oreilly.com/product/0636920021667.do). 1st. O'Reilly Media, 2011. eBook.
+Wampler, Dean. [Functional Programming for Java Developers, Tools for Better Concurrency, Abstraction, and Agility](http://shop.oreilly.com/product/0636920021667.do). 1st. O'Reilly Media, 2011. eBook.
 
 Zakas, Nicholas. [Maintainable JavaScript](http://www.amazon.com/gp/product/B0082CXEB0). 1st. O'Reilly Media, 2012. eBook.
 
