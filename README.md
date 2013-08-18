@@ -30,6 +30,8 @@ Hoover, D., Adewale Oshineye. [Apprenticeship Patterns, Guidance for the Aspirin
 
 Hunt, Andrew, David Thomas. [The Pragmatic Programmer, From Journeyman to Master](http://www.amazon.com/gp/product/B000SEGEKI). 1st. Addison-Wesley Professional, 1999. eBook.
 
+Klemens, Ben. [21st Centry C, C tips from the New School](http://shop.oreilly.com/product/0636920025108.do). 1st. O'Reilly Media, 2012. eBook.
+
 MacCaw, Alex. [The Little Book on CoffeeScript](http://shop.oreilly.com/product/0636920024309.do). 1st. O'Reilly Media, 2012. eBook.
 
 MacCaw, Alex. [JavaScript Web Applications](http://shop.oreilly.com/product/0636920018421.do). 1st. O'Reilly Media, 2011. eBook.
