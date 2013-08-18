@@ -12,4 +12,6 @@ Reas, C., Ben Fry. [Getting Started with Processing](http://www.amazon.com/gp/pr
 
 Segaran, Toby. [Programming Collective Intelligence, Building Smart Web 2.0 Applications](http://www.amazon.com/gp/product/B0028N4WM4). 1st. Sebastopol: O'Reilly Media, 2008. eBook.
 
+Shaw, Zed. [Learn Python The Hard Way](http://learnpythonthehardway.org/). 2nd. San Francisco: Self Published, 2010. eBook.
+
 Zakas, Nicholas. [Principles of Object-Oriented Programming in JavaScript](https://leanpub.com/oopinjavascript). Vancouver: Leanpub, 2013. eBook.
