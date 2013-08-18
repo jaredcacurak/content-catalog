@@ -16,6 +16,8 @@ Elliott, Eric. [Programming JavaScript Applications, Robust Web Architecture Wit
 
 Faludi, Robert. [Building Wireless Sensor Networks with ZigBee, XBee, Arduino, and Processing](http://shop.oreilly.com/product/9780596807740.do). 1st.  O'Reilly Media, 2010. eBook.
 
+Fogus, Michael. [Functional JavaScript, Introducing Functional Programming with Underscore.js](http://shop.oreilly.com/product/0636920028857.do). 1st.  O'Reilly Media, 2013. eBook.
+
 Ford, Neal. [The Productive Programmer](http://shop.oreilly.com/product/9780596519544.do) 1st. O'Reilly Media, 2008. eBook.
 
 Fowler, Chad. [The Passionate Programmer, Creating a remarkable career in software development](http://pragprog.com/book/cfcar2/the-passionate-programmer). 2nd. Pragmatic Bookshelf, 2009. eBook.
