@@ -24,6 +24,8 @@ Hunt, Andrew, David Thomas. [The Pragmatic Programmer, From Journeyman to Master
 
 Pausch Randy, Zaslow Jeffrey. [The Last Lecture](http://www.amazon.com/gp/product/B00139VU7E). 1st. Hyperion, 2008. eBook.
 
+Pfister, Cuno. [Getting Started with the Internet of Things](http://shop.oreilly.com/product/0636920013037.do). 1st.  Maker Media, 2011. eBook.
+
 Reas, C., Ben Fry. [Getting Started with Processing](http://www.amazon.com/gp/product/B003VTZXD6). 1st. Maker Media, 2010. eBook.
 
 Segaran, Toby. [Programming Collective Intelligence, Building Smart Web 2.0 Applications](http://www.amazon.com/gp/product/B0028N4WM4). 1st. O'Reilly Media, 2008. eBook.
