@@ -18,4 +18,6 @@ Seibel, Peter. [Coders at Work, Reflections on the Craft of Programming](http://
 
 Shaw, Zed. [Learn Python The Hard Way](http://learnpythonthehardway.org/). 2nd. San Francisco: Self Published, 2010. eBook.
 
+Zakas, Nicholas. [Maintainable JavaScript](http://www.amazon.com/gp/product/B0082CXEB0). 1st. Sebastopol: O'Reilly Media, 2012. eBook.
+
 Zakas, Nicholas. [Principles of Object-Oriented Programming in JavaScript](https://leanpub.com/oopinjavascript). Vancouver: Leanpub, 2013. eBook.
