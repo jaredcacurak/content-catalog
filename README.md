@@ -2,7 +2,9 @@
 
 Braithwaite, Reginald. [JavaScript Allongé, A strong cup of functions, objects, combinators, and decorators](https://leanpub.com/javascript-allonge). Vancouver: Leanpub, 2013. eBook.
 
-Crockford, Douglas. [JavaScript: The Good Parts](http://www.amazon.com/gp/product/B0026OR2ZY). 1st. Sebastopol: O'Reilly Media, 2008. eBook.
+Crockford, Douglas. [JavaScript: The Good Parts](http://www.amazon.com/gp/product/B0026OR2ZY). 2nd. Sebastopol: O'Reilly Media, 2008. eBook.
+
+Fowler, Chad. [The Passionate Programmer, Creating a remarkable career in software development](http://pragprog.com/book/cfcar2/the-passionate-programmer). 2nd. Raleigh: Pragmatic Bookshelf, 2009. eBook.
 
 Herman, David. [Effective JavaScript, 68 Specific Ways to Harness the Power of JavaScript](http://www.amazon.com/gp/product/B00AC1RP14). 1st. Westford: Addison-Wesley Professional, 2012. eBook.
 
