@@ -8,6 +8,8 @@ Crockford, Douglas. [JavaScript: The Good Parts](http://www.amazon.com/gp/produc
 
 Fowler, Chad. [The Passionate Programmer, Creating a remarkable career in software development](http://pragprog.com/book/cfcar2/the-passionate-programmer). 2nd. Raleigh: Pragmatic Bookshelf, 2009. eBook.
 
+Heineman, George T., Gary Pollice, Stanley Selkow. [Algorithms in a Nutshell, A Desktop Quick Reference](http://shop.oreilly.com/product/9780596516246.do). 1st. O'Reilly Media, 2009. eBook.
+
 Herman, David. [Effective JavaScript, 68 Specific Ways to Harness the Power of JavaScript](http://www.amazon.com/gp/product/B00AC1RP14). 1st. Westford: Addison-Wesley Professional, 2012. eBook.
 
 Hoover, D., Adewale Oshineye. [Apprenticeship Patterns, Guidance for the Aspiring Software Craftsman](http://www.amazon.com/gp/product/B002RMSZ7E). 1st. Sebastopol: O'Reilly Media, 2009. eBook.
