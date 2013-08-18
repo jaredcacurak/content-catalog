@@ -22,6 +22,8 @@ Hoover, D., Adewale Oshineye. [Apprenticeship Patterns, Guidance for the Aspirin
 
 Hunt, Andrew, David Thomas. [The Pragmatic Programmer, From Journeyman to Master](http://www.amazon.com/gp/product/B000SEGEKI). 1st. Addison-Wesley Professional, 1999. eBook.
 
+Mednieks, Zigurd, Dornin, Laird G., Meike, Blake, Nakamura, Masumi. [Programming Android](http://shop.oreilly.com/product/0636920010364.do). 1st. O'Reilly Media, 2011. eBook.
+
 Pausch Randy, Zaslow Jeffrey. [The Last Lecture](http://www.amazon.com/gp/product/B00139VU7E). 1st. Hyperion, 2008. eBook.
 
 Pfister, Cuno. [Getting Started with the Internet of Things](http://shop.oreilly.com/product/0636920013037.do). 1st.  Maker Media, 2011. eBook.
