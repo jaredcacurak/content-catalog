@@ -79,3 +79,5 @@ Zakas, Nicholas. [Principles of Object-Oriented Programming in JavaScript](https
 # Videos
 
 Crockford, Douglas. [Douglas Crockford JavaScript Master Class](http://shop.oreilly.com/product/9780596809614.do). O'Reilly Media, 2009. Video.
+
+McCullough, Matthew, Berglund Tim. [Mastering Git](http://shop.oreilly.com/product/0636920017462.do). O'Reilly Media, 2011. Video.
