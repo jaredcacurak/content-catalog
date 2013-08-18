@@ -6,6 +6,8 @@ Burnham, Trevor. [Async JavaScript, Build More Responsive Apps with Less Code](h
 
 Crockford, Douglas. [JavaScript: The Good Parts](http://www.amazon.com/gp/product/B0026OR2ZY). 2nd. O'Reilly Media, 2008. eBook.
 
+Downey, Allen B. [Thinking Stats](http://shop.oreilly.com/product/0636920020745.do). 1st. O'Reilly Media, 2011. eBook.
+
 Faludi, Robert. [Building Wireless Sensor Networks with ZigBee, XBee, Arduino, and Processing](http://shop.oreilly.com/product/9780596807740.do). 1st.  O'Reilly Media, 2010. eBook.
 
 Ford, Neal. [The Productive Programmer](http://shop.oreilly.com/product/9780596519544.do) 1st. O'Reilly Media, 2008. eBook.
