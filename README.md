@@ -8,6 +8,8 @@ Herman, David. [Effective JavaScript, 68 Specific Ways to Harness the Power of J
 
 Hoover, D., Adewale Oshineye. [Apprenticeship Patterns, Guidance for the Aspiring Software Craftsman](http://www.amazon.com/gp/product/B002RMSZ7E). 1st. Sebastopol: O'Reilly Media, 2009. eBook.
 
+Hunt, Andrew, David Thomas. [The Pragmatic Programmer, From Journeyman to Master](http://www.amazon.com/gp/product/B000SEGEKI). 1st ed. New York: Addison-Wesley Professional, 1999. eBook.
+
 Reas, C., Ben Fry. [Getting Started with Processing](http://www.amazon.com/gp/product/B003VTZXD6). 1st. Sebastopol: Maker Media, 2010. eBook.
 
 Segaran, Toby. [Programming Collective Intelligence, Building Smart Web 2.0 Applications](http://www.amazon.com/gp/product/B0028N4WM4). 1st. Sebastopol: O'Reilly Media, 2008. eBook.
