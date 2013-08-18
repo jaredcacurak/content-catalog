@@ -50,6 +50,8 @@ Seibel, Peter. [Coders at Work, Reflections on the Craft of Programming](http://
 
 Shaw, Zed. [Learn Python The Hard Way](http://learnpythonthehardway.org/). 2nd. Self Published, 2010. eBook.
 
+Stefanov, Stoyan. [JavaScript Patterns](http://shop.oreilly.com/product/9780596806767.do). 1st. O'Reilly Media, 2010. eBook.
+
 Wampler, Dean. [Functional Programming for Java Developers](http://shop.oreilly.com/product/0636920021667.do). 1st. O'Reilly Media, 2011. eBook.
 
 Zakas, Nicholas. [Maintainable JavaScript](http://www.amazon.com/gp/product/B0082CXEB0). 1st. O'Reilly Media, 2012. eBook.
