@@ -12,6 +12,8 @@ Date, C.J. [SQL and Relational Theory, How to Write Accurate SQL Code](http://sh
 
 Downey, Allen B. [Thinking Stats](http://shop.oreilly.com/product/0636920020745.do). 1st. O'Reilly Media, 2011. eBook.
 
+Elliott, Eric. [Programming JavaScript Applications, Robust Web Architecture With Node, HTML5, and Modern JS Libraries](http://shop.oreilly.com/product/0636920024231.do). 1st. O'Reilly Media, 2013. eBook.
+
 Faludi, Robert. [Building Wireless Sensor Networks with ZigBee, XBee, Arduino, and Processing](http://shop.oreilly.com/product/9780596807740.do). 1st.  O'Reilly Media, 2010. eBook.
 
 Ford, Neal. [The Productive Programmer](http://shop.oreilly.com/product/9780596519544.do) 1st. O'Reilly Media, 2008. eBook.
