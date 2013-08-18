@@ -38,6 +38,8 @@ Mednieks, Zigurd, Dornin, Laird G., Meike, Blake, Nakamura, Masumi. [Programming
 
 Noble, Joshua. [Programming Interactivity](http://shop.oreilly.com/product/0636920021735.do). 2nd. O'Reilly Media, 2012. eBook.
 
+Osmani, Addy. [Learning JavaScript Design Patterns, A JavaScript and jQuery Developer's Guide](http://shop.oreilly.com/product/0636920025832.do). 1st. O'Reilly Media, 2012. eBook.
+
 Pausch Randy, Zaslow Jeffrey. [The Last Lecture](http://www.amazon.com/gp/product/B00139VU7E). 1st. Hyperion, 2008. eBook.
 
 Pfister, Cuno. [Getting Started with the Internet of Things](http://shop.oreilly.com/product/0636920013037.do). 1st.  Maker Media, 2011. eBook.
