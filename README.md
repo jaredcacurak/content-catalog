@@ -80,6 +80,8 @@ Zakas, Nicholas. [Principles of Object-Oriented Programming in JavaScript](https
 
 Crockford, Douglas. [Douglas Crockford JavaScript Master Class](http://shop.oreilly.com/product/9780596809614.do). O'Reilly Media, 2009. Video.
 
+Ford, Neal. [Agile Engineering Practices](http://shop.oreilly.com/product/0636920020271.do). O'Reilly Media, 2011. Video.
+
 Gray, Joesph. [Processing and Arduino in Tandem: Audio Visualizer](http://shop.oreilly.com/product/0636920013310.do). O'Reilly Media, 2010. Video.
 
 Gray, Joesph. [Processing and Arduino in Tandem: Audio Visualizer](http://shop.oreilly.com/product/0636920018377.do). O'Reilly Media, 2011. Video.
