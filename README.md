@@ -76,6 +76,8 @@ Zakas, Nicholas. [Principles of Object-Oriented Programming in JavaScript](https
 
 # Courses
 
+Cois, C. Aaron. [Learn Node.js by Example](https://www.udemy.com/learn-nodejs-by-example). udemy, 2012. Course.
+
 # Videos
 
 Beck, Kent. [Test Driven Development](http://pragprog.com/screencasts/v-kbtdd/test-driven-development). Pragmatic Bookshelf, 2010. Video.
