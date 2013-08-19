@@ -1,5 +1,7 @@
 # Content Catalog
 
+This is a list intended to track content I've purchased over time.
+
 * [Books](#books)
 * [Courses](#courses)
 * [Videos](#videos)
