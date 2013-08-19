@@ -78,6 +78,8 @@ Zakas, Nicholas. [Principles of Object-Oriented Programming in JavaScript](https
 
 # Videos
 
+Beck, Kent. [Test Driven Development](http://pragprog.com/screencasts/v-kbtdd/test-driven-development). Pragmatic Bookshelf, 2010. Video.
+
 Chacon, Scott. [Insider Guide to GitHub](http://pragprog.com/screencasts/v-scgithub/insider-guide-to-github). Pragmatic Bookshelf, 2010. Video.
 
 Crockford, Douglas. [Douglas Crockford JavaScript Master Class](http://shop.oreilly.com/product/9780596809614.do). O'Reilly Media, 2009. Video.
