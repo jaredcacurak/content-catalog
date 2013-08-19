@@ -76,6 +76,8 @@ Zakas, Nicholas. [Principles of Object-Oriented Programming in JavaScript](https
 
 # Courses
 
+Clark, Mike, Clark, Nicole. [Ruby Programming](https://pragmaticstudio.com/ruby). The Pragmatic Studio, 2012. Course.
+
 Cois, C. Aaron. [Learn Node.js by Example](https://www.udemy.com/learn-nodejs-by-example). udemy, 2012. Course.
 
 # Videos
