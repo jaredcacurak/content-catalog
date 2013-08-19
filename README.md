@@ -84,4 +84,6 @@ Gray, Joesph. [Processing and Arduino in Tandem: Audio Visualizer](http://shop.o
 
 Gray, Joesph. [Processing and Arduino in Tandem: Audio Visualizer](http://shop.oreilly.com/product/0636920018377.do). O'Reilly Media, 2011. Video.
 
+Mason, Hilary. [An Introduction to Machine Learning with Web Data](http://shop.oreilly.com/product/0636920017493.do). O'Reilly Media, 2011. Video.
+
 McCullough, Matthew, Berglund Tim. [Mastering Git](http://shop.oreilly.com/product/0636920017462.do). O'Reilly Media, 2011. Video.
