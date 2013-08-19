@@ -95,3 +95,5 @@ Mason, Hilary. [An Introduction to Machine Learning with Web Data](http://shop.o
 McCullough, Matthew, Berglund Tim. [Mastering Git](http://shop.oreilly.com/product/0636920017462.do). O'Reilly Media, 2011. Video.
 
 Warden, Pete. [An Introduction to MapReduce](http://shop.oreilly.com/product/0636920020226.do). O'Reilly Media, 2011. Video.
+
+Weirich, Jim. [Source Control Made Easy](http://pragprog.com/screencasts/v-jwsceasy/source-control-made-easy) Pragmatic Bookshelf, 2010. Video.
