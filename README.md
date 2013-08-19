@@ -1,8 +1,10 @@
+# Content Catalog
+
 * [Books](#books)
 * [Courses](#courses)
 * [Videos](#videos)
 
-# Books
+## Books
 
 Banzi, Massimo. [Getting Started with Arduino](http://shop.oreilly.com/product/0636920021414.do). 2nd. Maker Media, 2011. eBook.
 
@@ -74,13 +76,13 @@ Zakas, Nicholas. [Maintainable JavaScript](http://www.amazon.com/gp/product/B008
 
 Zakas, Nicholas. [Principles of Object-Oriented Programming in JavaScript](https://leanpub.com/oopinjavascript). Leanpub, 2013. eBook.
 
-# Courses
+## Courses
 
 Clark, Mike, Clark, Nicole. [Ruby Programming](https://pragmaticstudio.com/ruby). The Pragmatic Studio, 2012. Course.
 
 Cois, C. Aaron. [Learn Node.js by Example](https://www.udemy.com/learn-nodejs-by-example). udemy, 2012. Course.
 
-# Videos
+## Videos
 
 Beck, Kent. [Test Driven Development](http://pragprog.com/screencasts/v-kbtdd/test-driven-development). Pragmatic Bookshelf, 2010. Video.
 
